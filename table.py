@@ -7,6 +7,8 @@ from bot import Register
 
 async def zanesenie(znach, nomer_st):
     df = pd.read_excel('doctors_schedule.xlsx', sheet_name='Клиенты')
+
+
     data = await State.get_data()
     empty_row = df['fullname'].isnull().idxmax()
 
