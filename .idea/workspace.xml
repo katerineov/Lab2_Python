@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6662ae05-a834-4bab-8f97-ffeda290b348" name="Changes" comment="commit new projeow" />
+    <list default="true" id="6662ae05-a834-4bab-8f97-ffeda290b348" name="Changes" comment="commit new proj">
+      <change afterPath="$PROJECT_DIR$/db_client.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bot.py" beforeDir="false" afterPath="$PROJECT_DIR$/bot.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doctors_schedule.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/doctors_schedule.xlsx" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,7 +23,27 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;katerineov&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="c3348785-d0d5-498a-b617-9eeb0e1fdc34" />
+        <option name="url" value="https://github.com/katerineov/Lab-2.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="ProjectErrors" />
@@ -34,21 +59,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.bot.executor": "Run",
-    "Python.doctor.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.settings.executor": "Run",
-    "Python.table.executor": "Run",
-    "Python.м.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.bot.executor&quot;: &quot;Run&quot;,
+    &quot;Python.doctor.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.settings.executor&quot;: &quot;Run&quot;,
+    &quot;Python.table.executor&quot;: &quot;Run&quot;,
+    &quot;Python.м.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Катюшка\PycharmProjects\Laba2" />
       <recent name="C:\Users\Катюшка\PycharmProjects\Laba2\core" />
     </key>
   </component>
@@ -127,11 +153,28 @@
       <option name="project" value="LOCAL" />
       <updated>1714119142086</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="commit new projeow">
+      <option name="closed" value="true" />
+      <created>1714119351970</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1714119351970</updated>
+    </task>
+    <task id="LOCAL-00003" summary="commit new proj">
+      <option name="closed" value="true" />
+      <created>1714119608127</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1714119608127</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit new projeow" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit new projeow" />
+    <MESSAGE value="commit new proj" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit new proj" />
   </component>
 </project>
